@@ -1,0 +1,5 @@
+Here , in the data folder you have to keep the data( Flicker8k_dataset(2 folders in this) and Flickr8k_text(9 files in this) ) . otherwise the paths in the py files have to be changed . Here I again giving the links. If any problem occures please feel free to contact me in mahendranandi.rkma@gmail.com
+
+[Flickr8k_Dataset.zip](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)and[Flickr8k_text.zip](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip) 
+
+also you can search in google or github this data is easily availabe.
