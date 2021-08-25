@@ -8,13 +8,13 @@ Image captioning with ResNet50 and LSTM using keras library without applying att
 ***What can be learned from this single project:***
 
 ### from CV 
-- handling with image data
+- handling image data
 - CNN models and uses
 - transfer learning 
 - Feature extraction
 
 ### from NLP
-- handling with text data
+- handling text data
 - word embedding
 - one-hot-encoding
 - BLEU score
